@@ -1,0 +1,3309 @@
+EESchema-LIBRARY Version 2.3  04/11/2010-09:15:50
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 98
+#
+# Dev Name: 3RP/1610G
+# Package Name: 3RP/1610G
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 2
+#
+DEF 3RP/1610G R 0 40 N N 2 L N
+# Gate Name: /1
+# Symbol Name: POT_EU-
+F0 "R" -270 -150 50 V V L B
+F1 "3RP/1610G" -185 -150 50 V V L B
+F2 "pot-3RP/1610G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -85 50 -125 96
+P 2 1 0 0 -125 96 -67 88
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1-1 0 -200 100 U 40 40 1 1 P 
+X E 1-3 0 200 100 D 40 40 1 1 P 
+X S 1-2 200 0 100 L 40 40 1 1 P 
+# Gate Name: /2
+# Symbol Name: POT_EU-
+P 2 2 0 0 -30 100 -30 -100
+P 2 2 0 0 30 -100 30 100
+P 2 2 0 0 100 0 65 0
+P 2 2 0 0 65 0 -74 69
+P 2 2 0 0 30 100 -30 100
+P 2 2 0 0 -30 -100 30 -100
+P 2 2 0 0 -85 50 -125 96
+P 2 2 0 0 -125 96 -67 88
+P 2 2 0 0 -100 -100 -100 -20
+P 2 2 0 0 -100 -20 -120 -60
+P 2 2 0 0 -100 -20 -80 -60
+P 2 2 0 0 -85 50 -67 88
+X A 2-1 0 -200 100 U 40 40 2 1 P 
+X E 2-3 0 200 100 D 40 40 2 1 P 
+X S 2-2 200 0 100 L 40 40 2 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: 3RP/1610N
+# Package Name: 3RP/1610N
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF 3RP/1610N R 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: POT_EU-
+F0 "R" -270 -150 50 V V L B
+F1 "3RP/1610N" -185 -150 50 V V L B
+F2 "pot-3RP/1610N" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -85 50 -125 96
+P 2 1 0 0 -125 96 -67 88
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_1234-S64YW
+# Package Name: S64YW
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_1234-S64YW R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT2
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_1234-S64YW" -185 -150 50 V V L B
+F2 "pot-S64YW" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+X S@1 S@1 100 0 0 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-3223G
+# Package Name: 3223G
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-3223G R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-3223G" -185 -150 50 V V L B
+F2 "pot-3223G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-3223J
+# Package Name: 3223J
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-3223J R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-3223J" -185 -150 50 V V L B
+F2 "pot-3223J" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-3223W
+# Package Name: 3223W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-3223W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-3223W" -185 -150 50 V V L B
+F2 "pot-3223W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B25P
+# Package Name: B25P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B25P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B25P" -185 -150 50 V V L B
+F2 "pot-B25P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B25U
+# Package Name: B25U
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B25U R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B25U" -185 -150 50 V V L B
+F2 "pot-B25U" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B25V
+# Package Name: B25V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B25V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B25V" -185 -150 50 V V L B
+F2 "pot-B25V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B25X
+# Package Name: B25X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B25X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B25X" -185 -150 50 V V L B
+F2 "pot-B25X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B64W
+# Package Name: B64W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B64W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B64W" -185 -150 50 V V L B
+F2 "pot-B64W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B64Y
+# Package Name: B64Y
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B64Y R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B64Y" -185 -150 50 V V L B
+F2 "pot-B64Y" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-B90P
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-B90P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-B90P" -185 -150 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA6H
+# Package Name: CA6H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA6H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA6H" -185 -150 50 V V L B
+F2 "pot-CA6H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA6V
+# Package Name: CA6V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA6V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA6V" -185 -150 50 V V L B
+F2 "pot-CA6V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA9H
+# Package Name: CA9H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA9H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA9H" -185 -150 50 V V L B
+F2 "pot-CA9H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA9V
+# Package Name: CA9V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA9V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA9V" -185 -150 50 V V L B
+F2 "pot-CA9V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA14H
+# Package Name: CA14H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA14H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA14H" -185 -150 50 V V L B
+F2 "pot-CA14H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CA14V
+# Package Name: CA14V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CA14V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CA14V" -185 -150 50 V V L B
+F2 "pot-CA14V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CIP20C-4MM
+# Package Name: CIP20C-4MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CIP20C-4MM R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CIP20C-4MM" -185 -150 50 V V L B
+F2 "pot-CIP20C-4MM" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CIP20C-6MM
+# Package Name: CIP20C-6MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CIP20C-6MM R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CIP20C-6MM" -185 -150 50 V V L B
+F2 "pot-CIP20C-6MM" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-CT6
+# Package Name: CT6
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-CT6 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-CT6" -185 -150 50 V V L B
+F2 "pot-CT6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-ECP10P
+# Package Name: ECP10P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-ECP10P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-ECP10P" -185 -150 50 V V L B
+F2 "pot-ECP10P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-ECP10S
+# Package Name: ECP10S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-ECP10S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-ECP10S" -185 -150 50 V V L B
+F2 "pot-ECP10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-LI10
+# Package Name: LI10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-LI10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-LI10" -185 -150 50 V V L B
+F2 "pot-LI10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-LI15
+# Package Name: LI15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-LI15 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-LI15" -185 -150 50 V V L B
+F2 "pot-LI15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-PT10
+# Package Name: PT-10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-PT10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-PT10" -185 -150 50 V V L B
+F2 "pot-PT-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-PT10S
+# Package Name: PT-10S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-PT10S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-PT10S" -185 -150 50 V V L B
+F2 "pot-PT-10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-PTSPIN
+# Package Name: PT-SPIN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-PTSPIN R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-PTSPIN" -185 -150 50 V V L B
+F2 "pot-PT-SPIN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-RJ6
+# Package Name: RJ6
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-RJ6 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-RJ6" -185 -150 50 V V L B
+F2 "pot-RJ6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-RJ6S
+# Package Name: RJ6S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-RJ6S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-RJ6S" -185 -150 50 V V L B
+F2 "pot-RJ6S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-RJ9W
+# Package Name: RJ9W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-RJ9W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-RJ9W" -185 -150 50 V V L B
+F2 "pot-RJ9W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-RS3
+# Package Name: RS3
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-RS3 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-RS3" -185 -150 50 V V L B
+F2 "pot-RS3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S43P
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S43P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S43P" -185 -150 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S63P
+# Package Name: S63P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S63P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S63P" -185 -150 50 V V L B
+F2 "pot-S63P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S63S
+# Package Name: S63S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S63S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S63S" -185 -150 50 V V L B
+F2 "pot-S63S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S63X
+# Package Name: S63X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S63X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S63X" -185 -150 50 V V L B
+F2 "pot-S63X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S64W
+# Package Name: S64W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S64W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S64W" -185 -150 50 V V L B
+F2 "pot-S64W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S64Y
+# Package Name: S64Y
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S64Y R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S64Y" -185 -150 50 V V L B
+F2 "pot-S64Y" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S75H
+# Package Name: S75H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S75H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S75H" -185 -150 50 V V L B
+F2 "pot-S75H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-S75P
+# Package Name: S75P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-S75P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-S75P" -185 -150 50 V V L B
+F2 "pot-S75P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-SM-42/43A
+# Package Name: SM-42/43A
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-SM-42/43A R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-SM-42/43A" -185 -150 50 V V L B
+F2 "pot-SM-42/43A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-SM-42/43B
+# Package Name: SM-42/43B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-SM-42/43B R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-SM-42/43B" -185 -150 50 V V L B
+F2 "pot-SM-42/43B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-SM-42/43W
+# Package Name: SM-42/43W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-SM-42/43W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-SM-42/43W" -185 -150 50 V V L B
+F2 "pot-SM-42/43W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-SM-42/43X
+# Package Name: SM-42/43X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-SM-42/43X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-SM-42/43X" -185 -150 50 V V L B
+F2 "pot-SM-42/43X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A 1 0 -200 100 U 40 40 1 1 P 
+X E 3 0 200 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-SP19L
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-SP19L R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-SP19L" -185 -150 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-ST10
+# Package Name: ST10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-ST10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-ST10" -185 -150 50 V V L B
+F2 "pot-ST10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-ST15
+# Package Name: ST15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-ST15 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-ST15" -185 -150 50 V V L B
+F2 "pot-ST15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_EU-T189
+# Package Name: SP19LKN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_EU-T189 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: TPOT
+F0 "R" -270 -150 50 V V L B
+F1 "TRIM_EU-T189" -185 -150 50 V V L B
+F2 "pot-SP19LKN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 -30 100 -30 -100
+P 2 1 0 0 30 -100 30 100
+P 2 1 0 0 100 0 65 0
+P 2 1 0 0 65 0 -74 69
+P 2 1 0 0 30 100 -30 100
+P 2 1 0 0 -30 -100 30 -100
+P 2 1 0 0 -100 -100 -100 -20
+P 2 1 0 0 -100 -20 -120 -60
+P 2 1 0 0 -100 -20 -80 -60
+P 2 1 0 0 -85 50 -67 88
+X A A 0 -200 100 U 40 40 1 1 P 
+X E E 0 200 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-3223G
+# Package Name: 3223G
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-3223G R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-3223G" -135 -100 50 V V L B
+F2 "pot-3223G" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-3223J
+# Package Name: 3223J
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-3223J R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-3223J" -135 -100 50 V V L B
+F2 "pot-3223J" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-3223W
+# Package Name: 3223W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-3223W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-3223W" -135 -100 50 V V L B
+F2 "pot-3223W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B25P
+# Package Name: B25P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B25P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B25P" -135 -100 50 V V L B
+F2 "pot-B25P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B25U
+# Package Name: B25U
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B25U R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B25U" -135 -100 50 V V L B
+F2 "pot-B25U" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B25V
+# Package Name: B25V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B25V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B25V" -135 -100 50 V V L B
+F2 "pot-B25V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B25X
+# Package Name: B25X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B25X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B25X" -135 -100 50 V V L B
+F2 "pot-B25X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B64W
+# Package Name: B64W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B64W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B64W" -135 -100 50 V V L B
+F2 "pot-B64W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B64Y
+# Package Name: B64Y
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B64Y R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B64Y" -135 -100 50 V V L B
+F2 "pot-B64Y" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-B90P
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-B90P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-B90P" -135 -100 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA6H
+# Package Name: CA6H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA6H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA6H" -135 -100 50 V V L B
+F2 "pot-CA6H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA6V
+# Package Name: CA6V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA6V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA6V" -135 -100 50 V V L B
+F2 "pot-CA6V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA9H
+# Package Name: CA9H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA9H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA9H" -135 -100 50 V V L B
+F2 "pot-CA9H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA9V
+# Package Name: CA9V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA9V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA9V" -135 -100 50 V V L B
+F2 "pot-CA9V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA14H
+# Package Name: CA14H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA14H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA14H" -135 -100 50 V V L B
+F2 "pot-CA14H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CA14V
+# Package Name: CA14V
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CA14V R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CA14V" -135 -100 50 V V L B
+F2 "pot-CA14V" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CIP20C-4MM
+# Package Name: CIP20C-4MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CIP20C-4MM R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CIP20C-4MM" -135 -100 50 V V L B
+F2 "pot-CIP20C-4MM" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CIP20C-6MM
+# Package Name: CIP20C-6MM
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CIP20C-6MM R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CIP20C-6MM" -135 -100 50 V V L B
+F2 "pot-CIP20C-6MM" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-CT6
+# Package Name: CT6
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-CT6 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-CT6" -135 -100 50 V V L B
+F2 "pot-CT6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-ECP10P
+# Package Name: ECP10P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-ECP10P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-ECP10P" -135 -100 50 V V L B
+F2 "pot-ECP10P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-ECP10S
+# Package Name: ECP10S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-ECP10S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-ECP10S" -135 -100 50 V V L B
+F2 "pot-ECP10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-LI10
+# Package Name: LI10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-LI10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-LI10" -135 -100 50 V V L B
+F2 "pot-LI10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-LI15
+# Package Name: LI15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-LI15 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-LI15" -135 -100 50 V V L B
+F2 "pot-LI15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PT-10
+# Package Name: PT-10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PT-10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PT-10" -135 -100 50 V V L B
+F2 "pot-PT-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PT-10S
+# Package Name: PT-10S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PT-10S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PT-10S" -135 -100 50 V V L B
+F2 "pot-PT-10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PT-SPIN
+# Package Name: PT-SPIN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PT-SPIN R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PT-SPIN" -135 -100 50 V V L B
+F2 "pot-PT-SPIN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PT10
+# Package Name: PT-10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PT10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PT10" -135 -100 50 V V L B
+F2 "pot-PT-10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PT10S
+# Package Name: PT-10S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PT10S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PT10S" -135 -100 50 V V L B
+F2 "pot-PT-10S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-PTSPIN
+# Package Name: PT-SPIN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-PTSPIN R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-PTSPIN" -135 -100 50 V V L B
+F2 "pot-PT-SPIN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-RJ6
+# Package Name: RJ6
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-RJ6 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-RJ6" -135 -100 50 V V L B
+F2 "pot-RJ6" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-RJ6S
+# Package Name: RJ6S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-RJ6S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-RJ6S" -135 -100 50 V V L B
+F2 "pot-RJ6S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-RJ9W
+# Package Name: RJ9W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-RJ9W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-RJ9W" -135 -100 50 V V L B
+F2 "pot-RJ9W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-RS3
+# Package Name: RS3
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-RS3 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-RS3" -135 -100 50 V V L B
+F2 "pot-RS3" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S43P
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S43P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S43P" -135 -100 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S63P
+# Package Name: S63P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S63P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S63P" -135 -100 50 V V L B
+F2 "pot-S63P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S63S
+# Package Name: S63S
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S63S R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S63S" -135 -100 50 V V L B
+F2 "pot-S63S" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S63X
+# Package Name: S63X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S63X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S63X" -135 -100 50 V V L B
+F2 "pot-S63X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S64W
+# Package Name: S64W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S64W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S64W" -135 -100 50 V V L B
+F2 "pot-S64W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S64Y
+# Package Name: S64Y
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S64Y R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S64Y" -135 -100 50 V V L B
+F2 "pot-S64Y" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S75H
+# Package Name: S75H
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S75H R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S75H" -135 -100 50 V V L B
+F2 "pot-S75H" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-S75P
+# Package Name: S75P
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-S75P R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-S75P" -135 -100 50 V V L B
+F2 "pot-S75P" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-SM-42/43A
+# Package Name: SM-42/43A
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-SM-42/43A R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-SM-42/43A" -135 -100 50 V V L B
+F2 "pot-SM-42/43A" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-SM-42/43B
+# Package Name: SM-42/43B
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-SM-42/43B R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-SM-42/43B" -135 -100 50 V V L B
+F2 "pot-SM-42/43B" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-SM-42/43W
+# Package Name: SM-42/43W
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-SM-42/43W R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-SM-42/43W" -135 -100 50 V V L B
+F2 "pot-SM-42/43W" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-SM-42/43X
+# Package Name: SM-42/43X
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-SM-42/43X R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-SM-42/43X" -135 -100 50 V V L B
+F2 "pot-SM-42/43X" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A 1 0 -300 100 U 40 40 1 1 P 
+X E 3 0 300 100 D 40 40 1 1 P 
+X S 2 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-SP19L
+# Package Name: SP19L
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-SP19L R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-SP19L" -135 -100 50 V V L B
+F2 "pot-SP19L" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-ST10
+# Package Name: ST10
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-ST10 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-ST10" -135 -100 50 V V L B
+F2 "pot-ST10" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-ST15
+# Package Name: ST15
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-ST15 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-ST15" -135 -100 50 V V L B
+F2 "pot-ST15" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: TRIM_US-T189
+# Package Name: SP19LKN
+# Dev Tech: ''
+# Dev Prefix: R
+# Gate count = 1
+#
+DEF TRIM_US-T189 R 0 40 N N 1 L N
+# Gate Name: 1
+# Symbol Name: POT_US-
+F0 "R" -235 -100 50 V V L B
+F1 "TRIM_US-T189" -135 -100 50 V V L B
+F2 "pot-SP19LKN" 0 150 50 H I C C
+DRAW
+P 2 1 0 0 0 -200 0 -180
+P 2 1 0 0 0 -180 -40 -150
+P 2 1 0 0 -40 -150 50 -100
+P 2 1 0 0 50 -100 -40 -50
+P 2 1 0 0 -40 -50 50 0
+P 2 1 0 0 50 0 -40 50
+P 2 1 0 0 -40 50 50 100
+P 2 1 0 0 50 100 -40 150
+P 2 1 0 0 -40 150 0 180
+P 2 1 0 0 0 180 0 200
+P 2 1 0 0 50 0 100 50
+P 2 1 0 0 100 -50 50 0
+P 2 1 0 0 100 50 100 -50
+P 2 1 0 0 80 -185 80 -85
+P 2 1 0 0 80 -85 105 -135
+P 2 1 0 0 105 -135 55 -135
+P 2 1 0 0 55 -135 80 -85
+X A A 0 -300 100 U 40 40 1 1 P 
+X E E 0 300 100 D 40 40 1 1 P 
+X S S 200 0 100 L 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

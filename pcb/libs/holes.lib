@@ -1,0 +1,764 @@
+EESchema-LIBRARY Version 2.3  28/11/2010-07:03:55
+# Converted with eagle2kicad.ulp Version 0.9
+# Device count = 30
+#
+# Dev Name: MOUNT-HOLE2.8
+# Package Name: 2,8
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE2.8 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE2.8" 80 -97 50 H V L B
+F2 "holes-2,8" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE3.0
+# Package Name: 3,0
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE3.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE3.0" 80 -97 50 H V L B
+F2 "holes-3,0" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE3.2
+# Package Name: 3,2
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE3.2 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE3.2" 80 -97 50 H V L B
+F2 "holes-3,2" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE3.3
+# Package Name: 3,3
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE3.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE3.3" 80 -97 50 H V L B
+F2 "holes-3,3" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE3.6
+# Package Name: 3,6
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE3.6 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE3.6" 80 -97 50 H V L B
+F2 "holes-3,6" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE4.1
+# Package Name: 4,1
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE4.1 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE4.1" 80 -97 50 H V L B
+F2 "holes-4,1" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE4.3
+# Package Name: 4,3
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE4.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE4.3" 80 -97 50 H V L B
+F2 "holes-4,3" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE4.5
+# Package Name: 4,5
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE4.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE4.5" 80 -97 50 H V L B
+F2 "holes-4,5" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE5.0
+# Package Name: 5,0
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE5.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE5.0" 80 -97 50 H V L B
+F2 "holes-5,0" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-HOLE5.5
+# Package Name: 5,5
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-HOLE5.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-HOLE
+F0 "H" 80 23 50 H V L B
+F1 "MOUNT-HOLE5.5" 80 -97 50 H V L B
+F2 "holes-5,5" 0 150 50 H I C C
+DRAW
+A 0 0 50 -3599 -2701 1 1 0 N 50 0 0 50
+A 0 0 50 -1799 -901 1 1 0 N -50 0 0 -50
+P 2 1 0 0 -20 0 20 0
+P 2 1 0 0 0 20 0 -20
+C 0 0 80 1 1 0 N
+C 0 0 20 1 1 0 N
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND2.8
+# Package Name: 2,8-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND2.8 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND2.8" 110 -97 50 H V L B
+F2 "holes-2,8-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B2,8 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND3.0
+# Package Name: 3,0-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND3.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND3.0" 110 -97 50 H V L B
+F2 "holes-3,0-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B3,0 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND3.2
+# Package Name: 3,2-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND3.2 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND3.2" 110 -97 50 H V L B
+F2 "holes-3,2-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B3,2 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND3.3
+# Package Name: 3,3-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND3.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND3.3" 110 -97 50 H V L B
+F2 "holes-3,3-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B3,3 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND3.6
+# Package Name: 3,6-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND3.6 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND3.6" 110 -97 50 H V L B
+F2 "holes-3,6-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B3,6 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND4.1
+# Package Name: 4,1-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND4.1 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND4.1" 110 -97 50 H V L B
+F2 "holes-4,1-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B4,1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND4.3
+# Package Name: 4,3-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND4.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND4.3" 110 -97 50 H V L B
+F2 "holes-4,3-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B4,3 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND4.5
+# Package Name: 4,5-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND4.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND4.5" 110 -97 50 H V L B
+F2 "holes-4,5-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B4,5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND5.0
+# Package Name: 5,0-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND5.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND5.0" 110 -97 50 H V L B
+F2 "holes-5,0-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-ROUND5.5
+# Package Name: 5,5-PAD
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-ROUND5.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-ROUND5.5" 110 -97 50 H V L B
+F2 "holes-5,5-PAD" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+C 0 0 60 1 1 0 N
+X MOUNT B5,5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE2.8
+# Package Name: 2,8-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE2.8 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE2.8" 110 -97 50 H V L B
+F2 "holes-2,8-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B2,8 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE3.0
+# Package Name: 3,0-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE3.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE3.0" 110 -97 50 H V L B
+F2 "holes-3,0-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B3,0 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE3.2
+# Package Name: 3,2-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE3.2 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE3.2" 110 -97 50 H V L B
+F2 "holes-3,2-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B3,2 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE3.3
+# Package Name: 3,3-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE3.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE3.3" 110 -97 50 H V L B
+F2 "holes-3,3-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B3,3 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE3.6
+# Package Name: 3,6-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE3.6 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE3.6" 110 -97 50 H V L B
+F2 "holes-3,6-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B3,6 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE4.1
+# Package Name: 4,1-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE4.1 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE4.1" 110 -97 50 H V L B
+F2 "holes-4,1-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B4,1 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE4.3
+# Package Name: 4,3-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE4.3 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE4.3" 110 -97 50 H V L B
+F2 "holes-4,3-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B4,3 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE4.5
+# Package Name: 4,5-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE4.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE4.5" 110 -97 50 H V L B
+F2 "holes-4,5-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B4,5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE5.0
+# Package Name: 5,0-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE5.0 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE5.0" 110 -97 50 H V L B
+F2 "holes-5,0-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#
+# Dev Name: MOUNT-PAD-SQUARE5.5
+# Package Name: 5,5-PAD-SQUARE
+# Dev Tech: ''
+# Dev Prefix: H
+# Gate count = 1
+#
+DEF MOUNT-PAD-SQUARE5.5 H 0 40 N N 1 L N
+# Gate Name: G$1
+# Symbol Name: MOUNT-PAD-SQUARE
+F0 "H" 110 23 50 H V L B
+F1 "MOUNT-PAD-SQUARE5.5" 110 -97 50 H V L B
+F2 "holes-5,5-PAD-SQUARE" 0 150 50 H I C C
+DRAW
+A 0 0 80 -3527 -2772 1 1 0 N 80 10 10 80
+A 0 0 80 -2627 -1872 1 1 0 N -10 80 -80 10
+A 0 0 80 -1727 -972 1 1 0 N -80 -10 -10 -80
+A 0 0 80 -827 -72 1 1 0 N 10 -80 80 -10
+S -100 10 -60 100 1 1 0 F
+S -100 60 -10 100 1 1 0 F
+S -100 -100 -60 -10 1 1 0 F
+S -100 -100 -10 -60 1 1 0 F
+S 60 -100 100 -10 1 1 0 F
+S 10 -100 100 -60 1 1 0 F
+S 10 60 100 100 1 1 0 F
+S 60 10 100 100 1 1 0 F
+X MOUNT B5,5 -100 0 100 R 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+
+#End Library

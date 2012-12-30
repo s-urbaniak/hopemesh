@@ -1,0 +1,7 @@
+This is the HopeMesh project
+
+The aim of this project is to build a mesh network based on Arduino like easily available hardware. This project utilizes the following components:
+
+* CPU: ATmega162
+* RAM: 62256 32kB SRAM
+* Radio module: RFM12B
