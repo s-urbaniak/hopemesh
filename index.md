@@ -17,14 +17,20 @@ We have two working prototypes communication with each other. You can see a vide
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/JDviZbN_kvU" frameborder="0" allowfullscreen="true">_</iframe>
 
+Currently you can only connect the modules via USB to an existing laptop/desktop machine using a terminal application. In the future a PS/2 keyboard and HD4780 LCD display is planned for autonomous working.
+
 # Documentation
 Currently the documentation consists mainly of my thesis and a presentation:
 
 * [hopemesh.pdf][presentation]
+* [hopemesh-thesis.pdf][thesis]
 
 # Software
 The aim was to create the project using Open Source software only. You will need the following software in order to get up and running:
 
 * avrdude: For flashing the USB
+* avr-gcc: For compiling the software
+* gcc: For compiling and executing unit tests on a x86 machine
 
 [presentation]: doc/hopemesh.pdf
+[thesis]: doc/hopemesh-thesis.pdf
