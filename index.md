@@ -3,7 +3,10 @@ layout: index
 title: HopeMesh
 tagline: Build a mesh network using Arduino like hardware
 repository_url: https://github.com/s-urbaniak/hopemesh
+author: Sergiusz Urbaniak
+
 meta-description: HopeMesh - A mesh network prototype using Arduino like hardware
+meta-keywords: hopemesh, mesh, network, rfm12b, avr, atmega, atmega162, attiny2123, arduino
 ---
 
 # Overview
