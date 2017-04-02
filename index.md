@@ -19,7 +19,7 @@ The HopeMesh project aims to build a fail-safe mesh network prototype using Ardu
 # Status
 We have two working prototypes communication with each other. You can see a video of the working modules here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JDviZbN_kvU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDviZbN_kvU?html5=1" frameborder="0" allowfullscreen></iframe>
 
 Currently you can only connect the modules via USB to an existing laptop/desktop machine using a terminal application. In the future a PS/2 keyboard and HD4780 LCD display is planned for autonomous working.
 
